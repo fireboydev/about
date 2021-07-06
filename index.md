@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+### ABOUT FIRE BOY / SOBRE FIRE BOY
 
-You can use the [editor on GitHub](https://github.com/fireboydev/about/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## ENGLISH (USA & CANADA)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ABOUT MY WORKS
 
-### Markdown
+I'am a developer at JavaScript, Discord.JS, JSON, HTML, MD, GITHUB, Glitch, FBSCP, and more lenguages.
+I working at: Discord Bot, Discord Server, Discord API, Discord DEV, Discord (Oficial Worker), Minecraft Server,
+[Minecraft Plugins](https://fireboy.ml/), Youtube, Roblox, Github and Reddit Community, Donate Links, Social Networks,
+And So much More! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Discord
 
-```markdown
-Syntax highlighted code block
+I'am Oficial Worker at Discord, I am a Certified Moderator, I am in HypeSquad Events, I am a Discord Bot Dev Verifyed, i am a initial supporter, and i boosted a server for +2 years.
 
-# Header 1
-## Header 2
-### Header 3
+[See my badadges Here](https://cdn.discordapp.com/attachments/819730076072411187/861806058213212200/unknown.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## PORTUGUÊS (BRASIL & PORTUGAL)
 
-**Bold** and _Italic_ and `Code` text
+## SOBRE MINHAS OCUPAÇÕES
 
-[Link](url) and ![Image](src)
-```
+Sou eu, um desenvolvedor de JavaScript, Discord.JS, JSON, HTML, MD, GITHUB, Glitch, FBSCP, e mais linguagens.
+Estou trabalhado em: um Bot para Discord, Servidor no Discord, Discord API, Discord DEV, no Discord (Funcionário Oficial), 
+Servidor de Minecraft, [Minecraft Plugins](https://fireboy.ml/), Comunidade no Youtube, Roblox, Github e Reddit, 
+Links Para donate, Redes Sociais e Muito Mais!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Discord
 
-### Jekyll Themes
+Eu sou um Funcionario do discord, eu sou um Moderador Certificado pelo Discord, eu estou no HypeSquad Events, Eu sou um desenvolvedor de bots verificado, eu sou um apoiador inicial, eu impulsionei um servidor por +2 anos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fireboydev/about/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Veja Minhas Insígnias Aqui](https://cdn.discordapp.com/attachments/819730076072411187/861806058213212200/unknown.png)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![Image](https://cdn.discordapp.com/avatars/687742841451053107/f084dc3dd4cabbebbfdd93c59a4e4f08.png?size=64)](https://fireboywork.ml/)
